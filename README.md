@@ -6,10 +6,11 @@
   A student in SoftUni,studying C#
 </h3>
 
-<p align='center'>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mirakis97&show_icons=true&count_private=true&theme=darcula" width="350"></a>
+
+<div>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mirakis97&show_icons=true&theme=react&include_all_commits=true&count_private=true "/>
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mirakis97&layout=compact&langs_count=8&hide=java,r&theme=react "/>
-</p>
+</div>
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/miroslav-vasilev-51867b1b7/">

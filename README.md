@@ -6,7 +6,7 @@
   A student in SoftUni,studying C#
 </h3>
 
-   <br text-align:"center">
+   <br text-align = 'center'>
 <img width="150" height="40" src="https://visitor-badge.glitch.me/badge?page_id=mirakis97">
    <br>
   <img width="200"  src="https://media.giphy.com/media/xbLZjyMNQqEpTKjkSm/giphy.gif">

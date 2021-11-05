@@ -9,6 +9,7 @@
    <br text-align:"center">
 <img width="150" height="40" src="https://visitor-badge.glitch.me/badge?page_id=mirakis97">
    <br>
+  <img width="200"  src="https://media.giphy.com/media/xbLZjyMNQqEpTKjkSm/giphy.gif">
    
 <div>
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mirakis97&show_icons=true&theme=react&include_all_commits=true&count_private=true "/>

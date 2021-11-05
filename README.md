@@ -6,7 +6,10 @@
   A student in SoftUni,studying C#
 </h3>
 
-
+   <br text-align:"center">
+<img width="150" height="40" src="https://visitor-badge.glitch.me/badge?page_id=tonchevaAleksandra">
+   <br>
+   
 <div>
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mirakis97&show_icons=true&theme=react&include_all_commits=true&count_private=true "/>
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mirakis97&layout=compact&langs_count=8&hide=java,r&theme=react "/>

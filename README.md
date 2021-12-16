@@ -23,6 +23,105 @@
   <a href="mailto:vasilevm4@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
 </p>
+  </div>
+ 
+ <table align="center">
+  <tr>
+    <th>Course</th>
+    <th>Certificate</th>
+  </tr>
+  <tr>
+    <td>
+      C# Basics
+    </td>
+    <td>
+      <a href="https://softuni.bg/certificates/details/88182/31a97c1d">
+        Link
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>  
+      C# Fundamentals
+    </td>"
+    <td>
+      <a href="https://softuni.bg/certificates/details/112569/20ff0d65">
+        Link
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      C# Advanced
+        </td>
+    <td>
+      <a href="https://softuni.bg/certificates/details/98193/17d4a4b7">
+      Link
+        </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      C# OOP
+    </td>
+        <td>
+      <a href="https://softuni.bg/certificates/details/104344/428c1b11">
+      Link
+        </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      JS Advanced
+    </td>
+    <td>
+      <a href="https://softuni.bg/certificates/details/110455/2fc8a2ed">
+      Link
+        </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      JS Application
+    </td>
+    <td>
+      <a href="https://softuni.bg/certificates/details/110351/c11c5c49">
+      Link
+        </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      C# Data Structures Fundamentals
+    </td>
+    <td>
+      <a href="https://softuni.bg/certificates/details/110035/10151c49">
+        Link
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      MS SQL
+    </td>
+    <td>
+      <a href="https://softuni.bg/certificates/details/113983/54ef09dc">
+      Link
+        </a>
+    </td>
+  </tr>
+   <tr>
+    <td>
+      Entity Framework Core
+    </td>
+    <td>
+      <a href="https://softuni.bg/certificates/details/119133/7bc21705">
+      Link
+        </a>
+    </td>
+  </tr>
+  
+</table>
 
 ---
 

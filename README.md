@@ -11,7 +11,7 @@
    <br>
   <img width="200"  src="https://media.giphy.com/media/xbLZjyMNQqEpTKjkSm/giphy.gif">
    
-<div>
+<div align='center'>
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mirakis97&show_icons=true&theme=react&include_all_commits=true&count_private=true "/>
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mirakis97&layout=compact&langs_count=8&hide=java,r&theme=react "/>
 </div>

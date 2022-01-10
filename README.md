@@ -7,9 +7,9 @@
 </h3>
 
    <br text-align = 'center'>
-<img width="150" height="40" src="https://visitor-badge.glitch.me/badge?page_id=mirakis97">
-<img width="200"  src="https://media.giphy.com/media/xbLZjyMNQqEpTKjkSm/giphy.gif">
-   </br>
+  <img width="150" height="40" src="https://visitor-badge.glitch.me/badge?page_id=mirakis97">
+  <img width="200"  src="https://media.giphy.com/media/xbLZjyMNQqEpTKjkSm/giphy.gif">
+   <br>
   
    
 <div align='center'>
@@ -21,7 +21,7 @@
   <a href="https://www.linkedin.com/in/miroslav-vasilev-51867b1b7/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="mailto:vasilevm4">
+  <a href="mailto:vasilevm4@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>

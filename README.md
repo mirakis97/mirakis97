@@ -141,5 +141,5 @@
 
 - 💻 Working on becoming a C# web developer.
 - 💬 Ask me anything about my me!
-- 📫 How to reach me: vasilevm4@gmail.com
+- 📫 How to reach me: ... vasilevm4@gmail.com
 - 💡 I'm really passionate about sports,gaming,technology, trying to learn and try something new everyday.

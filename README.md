@@ -121,7 +121,16 @@
         </a>
     </td>
   </tr>
-  
+    <tr>
+    <td>
+      Algorithms Fundamentals with C#
+    </td>
+    <td>
+      <a href="https://softuni.bg/certificates/details/123071/2fd48a16">
+      Link
+        </a>
+    </td>
+  </tr>
 </table>
 
 ---

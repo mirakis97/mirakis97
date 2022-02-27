@@ -131,6 +131,16 @@
         </a>
     </td>
   </tr>
+     <tr>
+    <td>
+      C# Web Basics
+    </td>
+    <td>
+      <a href="https://softuni.bg/certificates/details/126314/cb00f3c1">
+      Link
+        </a>
+    </td>
+  </tr>
 </table>
 
 ---

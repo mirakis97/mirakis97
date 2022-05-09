@@ -14,7 +14,7 @@
    
 <div align='center'>
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mirakis97&show_icons=true&theme=react&include_all_commits=true&count_private=true "/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mirakis97&layout=compact&langs_count=8&hide=java,r&theme=react "/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mirakis97&layout=compact&langs_count=8&hide=java,r&theme=react"/>
 </div>
 
 <p align='center'>
@@ -26,7 +26,7 @@
   </a>&nbsp;&nbsp;
 </p>
  
- <table align="center">
+ <table align='center'>
   <tr>
     <th>Course</th>
     <th>Certificate</th>
@@ -44,7 +44,7 @@
   <tr>
     <td>  
       C# Fundamentals
-    </td>"
+    </td>
     <td>
       <a href="https://softuni.bg/certificates/details/112569/20ff0d65">
         Link
@@ -137,6 +137,16 @@
     </td>
     <td>
       <a href="https://softuni.bg/certificates/details/126314/cb00f3c1">
+      Link
+        </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      ASP.NET Core
+    </td>
+    <td>
+      <a href="https://softuni.bg/certificates/details/132681/ab70e4e4">
       Link
         </a>
     </td>

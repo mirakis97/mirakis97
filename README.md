@@ -5,12 +5,16 @@
 <h3 align='center'>
   A student in SoftUni,studying C#
 </h3>
-
-   <br text-align = 'center'>
-  <img width="150" height="40" src="https://visitor-badge.glitch.me/badge?page_id=mirakis97">
+ <div align='center'>
+   <br>
   <img width="200"  src="https://media.giphy.com/media/xbLZjyMNQqEpTKjkSm/giphy.gif">
    <br>
-  
+ </div>
+ <div align='center'>
+   <br>
+  <img width="150" height="40" src="https://visitor-badge.glitch.me/badge?page_id=mirakis97">
+   <br>
+ </div>
    
 <div align='center'>
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mirakis97&show_icons=true&theme=react&include_all_commits=true&count_private=true "/>
@@ -183,6 +187,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=">
 </p>
 
 ---

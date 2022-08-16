@@ -151,6 +151,16 @@
         </a>
     </td>
   </tr>
+   <tr>
+    <td>
+      ReactJS
+    </td>
+    <td>
+      <a href="https://softuni.bg/certificates/details/140682/bc4d5e0f">
+      Link
+        </a>
+    </td>
+  </tr>
     <tr>
     <td>
       C# Web Developer Diploma

@@ -11,14 +11,8 @@
    <br>
  </div>
  <div align='center'>
-   <br>
-  <img width="150" height="40" src="https://visitor-badge.glitch.me/badge?page_id=mirakis97">
-   <br>
- </div>
-   
-<div align='center'>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mirakis97&show_icons=true&theme=react&include_all_commits=true&count_private=true "/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mirakis97&layout=compact&langs_count=8&hide=java,r&theme=react"/>
+  <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mirakis97&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mirakis97&layout=compact&langs_count=8&hide=java,r&theme=react"/>
 </div>
 
 <p align='center'>

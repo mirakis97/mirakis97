@@ -2,28 +2,13 @@
   Hello there 👋 I'm Miroslav
 </h1>
 
-<h3 align='center'>
-  A student in SoftUni,studying C#
-</h3>
- <div align='center'>
-   <br>
-  <img width="200"  src="https://media.giphy.com/media/xbLZjyMNQqEpTKjkSm/giphy.gif">
-   <br>
- </div>
+<h2 align='center'>
+  A student from SoftUni, who was studying C#, now I keep up the good work and focus on learning new things daily!
+</h2>
  <div align='center'>
   <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mirakis97&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mirakis97&layout=compact&langs_count=8&hide=java,r&theme=react"/>
+  <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mirakis97&layout=compact&langs_count=8&hide=java,r&theme=react"/>
 </div>
-
-<p align='center'>
-  <a href="https://www.linkedin.com/in/miroslav-vasilev-51867b1b7/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:vasilevm4@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;&nbsp;
-</p>
- 
  <table align='center'>
   <tr>
     <th>Course</th>
@@ -62,6 +47,15 @@
   </tr>
 </table>
 
+<p align='center'>
+  <a href="https://www.linkedin.com/in/miroslav-vasilev-51867b1b7/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:vasilevm4@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;&nbsp;
+</p>
+ 
 ---
 
 <h3 align='center'>💻 Prefered technologies and languages</h3><br/>

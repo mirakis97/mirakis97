@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align='center'>
-  A student from SoftUni, who was studying C#, now I keep up the good work and focus on learning new things daily!
+   Technical Consultant at SoftOne, working on myself, learning new stuff in C#, Kotlin, JavaScript.
 </h2>
  <div align='center'>
   <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mirakis97&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
